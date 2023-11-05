@@ -1,4 +1,4 @@
 # DEMO
 This is my first Git repository
 <br>
-Author - Madhuri
+Author - Madhuri (Demo)
